@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*12_Mission_to_Mars-checkpoint.ipynb
+*mission_to_mars-checkpoint.ipynb
+
+__pycache__/
+*.py[cod]
+*$py.class
+
